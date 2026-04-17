@@ -21,18 +21,11 @@
     "text": "Dr. Jeshua Tromp\n  Postdoctoral Researcher\n  \n    Donders Institute for Brain, Cognition and Behaviour\n    Radboudumc, Nijmegen\n  \n  \n  \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\n\nHersenvoer is mijn Nederlandstalige nieuwsbrief over brein, gezondheid en wetenschap!\nZie hieronder de laatste posts van Hersenvoer.\n\nLaden…"
   },
   {
-    "objectID": "docs/projects.html",
-    "href": "docs/projects.html",
-    "title": "Projects",
+    "objectID": "acknowledgements.html",
+    "href": "acknowledgements.html",
+    "title": "Acknowledgements",
     "section": "",
-    "text": "Dr. Jeshua Tromp\n  Postdoctoral Researcher\n  \n    Donders Institute for Brain, Cognition and Behaviour\n    Radboudumc, Nijmegen\n  \n  \n  \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\n\nProjects content coming soon."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Dr. Jeshua Tromp\n  Postdoctoral Researcher\n  \n    Donders Institute for Brain, Cognition and Behaviour\n    Radboudumc, Nijmegen\n  \n  \n  \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\n\nFeel free to reach out!\n\n  \n    Name\n    \n  \n  \n    Email\n    \n  \n  \n    Message\n    \n  \n  Send message"
+    "text": "Dr. Jeshua Tromp\n  Postdoctoral Researcher\n  \n    Donders Institute for Brain, Cognition and Behaviour\n    Radboudumc, Nijmegen\n  \n  \n  \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\n\nThis website was built with Quarto, an open-source scientific publishing system.\nThe design of this website was inspired by the personal research website of Roberta Rosa Valtorta, whose clean and elegant academic layout served as a creative reference.\nThanks to The Academic Designer for highlighting great examples of scientific websites and providing inspiration for academics building their online presence."
   },
   {
     "objectID": "about.html",
@@ -42,32 +35,11 @@
     "text": "Dr. Jeshua Tromp\n  Postdoctoral Researcher\n  \n    Donders Institute for Brain, Cognition and Behaviour\n    Radboudumc, Nijmegen\n  \n  \n  \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\n\nAbout this site"
   },
   {
-    "objectID": "acknowledgements.html",
-    "href": "acknowledgements.html",
-    "title": "Acknowledgements",
-    "section": "",
-    "text": "Dr. Jeshua Tromp\n  Postdoctoral Researcher\n  \n    Donders Institute for Brain, Cognition and Behaviour\n    Radboudumc, Nijmegen\n  \n  \n  \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\n\nThis website was built with Quarto, an open-source scientific publishing system.\nThe design of this website was inspired by the personal research website of Roberta Rosa Valtorta, whose clean and elegant academic layout served as a creative reference.\nThanks to The Academic Designer for highlighting great examples of scientific websites and providing inspiration for academics building their online presence."
-  },
-  {
-    "objectID": "docs/contact.html",
-    "href": "docs/contact.html",
+    "objectID": "contact.html",
+    "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Feel free to reach out!"
-  },
-  {
-    "objectID": "docs/contact.html#send-a-message",
-    "href": "docs/contact.html#send-a-message",
-    "title": "Contact",
-    "section": "Send a message",
-    "text": "Send a message\nNote: replace YOUR-FORM-ID below with your Formspree form ID to activate this form.\n\n\n&lt;label for=\"name\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" id=\"name\" name=\"name\" class=\"form-control\" placeholder=\"Your name\" required&gt;\n\n\n&lt;label for=\"email\"&gt;Email&lt;/label&gt;\n&lt;input type=\"email\" id=\"email\" name=\"email\" class=\"form-control\" placeholder=\"Your email\" required&gt;\n\n\n&lt;label for=\"message\"&gt;Message&lt;/label&gt;\n&lt;textarea id=\"message\" name=\"message\" class=\"form-control\" rows=\"5\" placeholder=\"Your message\" required&gt;&lt;/textarea&gt;\n\n\nSend message"
-  },
-  {
-    "objectID": "docs/publications.html",
-    "href": "docs/publications.html",
-    "title": "Dr. Jeshua Tromp",
-    "section": "",
-    "text": "Dr. Jeshua Tromp\n  Postdoctoral Researcher\n  \n    Donders Institute for Brain, Cognition and Behaviour\n    Radboudumc, Nijmegen"
+    "text": "Dr. Jeshua Tromp\n  Postdoctoral Researcher\n  \n    Donders Institute for Brain, Cognition and Behaviour\n    Radboudumc, Nijmegen\n  \n  \n  \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\n\nFeel free to reach out!\n\n  \n    Name\n    \n  \n  \n    Email\n    \n  \n  \n    Message\n    \n  \n  Send message"
   },
   {
     "objectID": "index.html#welcome",
