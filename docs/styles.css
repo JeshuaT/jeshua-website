@@ -267,6 +267,12 @@ body:has(.home-content) .quarto-title-block {
 
 /* ─── RESPONSIVE ────────────────────────────────────── */
 @media (max-width: 860px) {
+  /* Navbar: reset the 12rem desktop padding so brand + hamburger are visible */
+  .navbar-container {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+
   .two-col-wrapper {
     flex-direction: column;
     margin-top: 0;
@@ -282,14 +288,31 @@ body:has(.home-content) .quarto-title-block {
     padding: 1rem 0;
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: flex-start;
     gap: 1rem;
   }
 
   .profile-photo-wrapper {
-    width: 80px;
+    width: 90px;
     flex-shrink: 0;
     margin-bottom: 0;
+  }
+
+  /* Stack name/title/affiliation/icons in a column next to the photo */
+  .profile-sidebar > :not(.profile-photo-wrapper) {
+    min-width: 0;
+  }
+
+  .profile-name {
+    font-size: 1rem;
+  }
+
+  .profile-title-label {
+    font-size: 0.85rem;
+  }
+
+  .profile-affiliation {
+    font-size: 0.8rem;
   }
 
   .profile-divider { display: none; }
@@ -299,4 +322,9 @@ body:has(.home-content) .quarto-title-block {
   }
 
   .banner-img { height: 130px; }
+
+  /* Prevent any wide element from causing horizontal scroll */
+  body {
+    overflow-x: hidden;
+  }
 }
