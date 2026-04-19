@@ -375,4 +375,9 @@ body:has(.home-content) .quarto-title-block {
   body {
     overflow-x: hidden;
   }
+
+  /* Justify body text like Word's Ctrl+J */
+  .two-col-wrapper #quarto-document-content p {
+    text-align: justify;
+  }
 }
