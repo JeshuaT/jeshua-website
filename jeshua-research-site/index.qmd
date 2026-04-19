@@ -7,7 +7,7 @@ toc: false
 
 ## Welcome!
 
-I'm a cognitive neuroscientist, currently working as a **postdoctoral research fellow** at the Donders Institute \@Nijmegen. My current focus is on the relation between the **gut-microbiome-brain axis**, and uncovering the consequences of **iron deficiency** and **iron overload** on our brain, cognitive and mental health. Take a look at [Projects](projects.qmd) to find out more about my current research projects. Also, feel free to [reach out](contact.qmd) if you want to connect.
+I'm a cognitive neuroscientist, currently working as a **postdoctoral research fellow** at the Donders Institute in the beautiful city of Nijmegen. My current focus is on the relation between the **gut-microbiome-brain axis**, and uncovering the consequences of **iron deficiency** and **iron overload** on our brain, cognitive and mental health. Take a look at [Projects](projects.qmd) to find out more about my current research projects. Also, feel free to [reach out](contact.qmd) if you want to connect.
 
 In my work, I use a combination of **computational modeling** and **advanced statistical modeling**, to uncover patterns in large multivariate datasets. Therefore, I'm coding a lot in **R/Python**, but mostly standing on the shoulders of the heroes that maintain research packages on Github. Beyond my direct research projects, I have a broad interest in everything science & philosophy! In my Dutch blog [Hersenvoer](hersenvoer.qmd), I write for a broad audience about my work and beyond, check it out!
 
