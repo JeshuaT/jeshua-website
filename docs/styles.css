@@ -287,10 +287,13 @@ body:has(.home-content) .quarto-title-block {
 
   .navbar-brand-container {
     position: absolute;
+    top: 0;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
     align-items: center;
+    height: 44px;
+    z-index: 2;
   }
 
   .two-col-wrapper {

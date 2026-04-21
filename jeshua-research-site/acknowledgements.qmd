@@ -1,9 +1,0 @@
----
-title: "Acknowledgements"
----
-
-This website was built with [Quarto](https://quarto.org/), an open-source scientific publishing system.
-
-The design of this website was inspired by the personal research website of [Roberta Rosa Valtorta](https://robertavaltorta.research.st/), whose clean and elegant academic layout served as a creative reference.
-
-Thanks to [The Academic Designer](https://theacademicdesigner.com/) for highlighting great examples of scientific websites and providing inspiration for academics building their online presence.

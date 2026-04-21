@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:robertavaltorta.research.st)"
+      "WebFetch(domain:robertavaltorta.research.st)",
+      "Bash(git *)"
     ]
   }
 }
