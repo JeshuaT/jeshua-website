@@ -15,9 +15,9 @@ Along the way, I have been part of many wonderful lab groups. During my time in 
 
 ## A (very) short personal history
 
-I was born on the One Happy Island: Aruba. As a child from a Colombian-Cuban mother and an Aruban father, my upbringing was a beautiful mess of Latin-American and Dutch influences. We moved to the Netherlands when I was four, after which I did my primary and secondary school in Nijmegen and my university studies in Utrecht. Now, I still live in Utrecht, where I play football, do climbing, read books and am always looking forward to holidays with lots of hiking and history.
+I was born on the One Happy Island: Aruba. As a child from a Colombian-Cuban mother and an Aruban father, my upbringing was a beautiful mess of Latin-American and Dutch influences. We moved to the Netherlands when I was four, after which I did my primary and secondary school in Nijmegen and my university studies in Utrecht. Now, I still live in Utrecht, where I play football, do climbing, read books and am always looking forward to holidays with lots of hiking!
 
-<div class="page-photo">
+<div class="page-photo page-photo--about">
   <img src="images/aruba_colombia.jpg" alt="Aruba and Colombia">
 </div>
 
