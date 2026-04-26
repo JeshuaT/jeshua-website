@@ -1,5 +1,5 @@
 ---
-title: "Jeshua Tromp | Cognitive Neuroscience Research"
+title: "Jeshua Tromp | Cognitive Neuroscientist | Brain Iron | Gut-Microbiome-Brain"
 description: "Dr. Jeshua Tromp is a postdoctoral researcher in cognitive neuroscience at the Donders Institute, Radboudumc, studying the gut-microbiome-brain axis and iron's effects on brain and cognitive health."
 image: images/profile_picture.jpg
 toc: false

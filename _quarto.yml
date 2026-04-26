@@ -9,6 +9,7 @@ project:
 website:
   title: "Dr. Jeshua Tromp"
   site-url: https://jeshuatromp.com
+  favicon: images/logo.png
   description: "Cognitive Neuroscience researcher at the Donders Institute"
   open-graph: true
   twitter-card: true
