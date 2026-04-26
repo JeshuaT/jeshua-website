@@ -1,0 +1,13 @@
+---
+title: "Files"
+description: "Downloadable files by Dr. Jeshua Tromp, including CV and research materials."
+toc: false
+---
+
+<div class="home-content">
+
+## Files
+
+Downloadable files and resources will be listed here.
+
+</div>

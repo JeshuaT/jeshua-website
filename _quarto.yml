@@ -3,10 +3,15 @@ project:
   output-dir: docs
   resources:
     - CNAME
+    - files/
+    - images/
 
 website:
   title: "Dr. Jeshua Tromp"
+  site-url: https://jeshuatromp.com
   description: "Cognitive Neuroscience researcher at the Donders Institute"
+  open-graph: true
+  twitter-card: true
   page-footer:
     center: "Copyright &copy; 2026 Jeshua Tromp &nbsp;|&nbsp; [Acknowledgements](acknowledgements.qmd)"
   navbar:
@@ -15,6 +20,8 @@ website:
     right:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About
       - href: publications.qmd
         text: Publications
       - href: projects.qmd

@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "WebFetch(domain:robertavaltorta.research.st)",
-      "Bash(git *)"
+      "Bash(git *)",
+      "Bash(quarto render *)"
     ]
   }
 }

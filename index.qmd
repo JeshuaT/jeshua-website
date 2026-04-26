@@ -1,18 +1,18 @@
 ---
-title: "Home"
+title: "Jeshua Tromp | Cognitive Neuroscience Research"
+description: "Dr. Jeshua Tromp is a postdoctoral researcher in cognitive neuroscience at the Donders Institute, Radboudumc, studying the gut-microbiome-brain axis and iron's effects on brain and cognitive health."
+image: images/profile_picture.jpg
 toc: false
 ---
 
 <div class="home-content">
 
-## Welcome!
-
 I'm a cognitive neuroscientist, currently working as a **postdoctoral research fellow** at the Donders Institute in the beautiful city of Nijmegen. My research focuses on the **gut-microbiome-brain axis** and the consequences of **iron deficiency** and **iron overload** on brain, cognitive, and mental health. Take a look at [Projects](projects.qmd) to find out more about my current research projects, or feel free to [reach out](contact.qmd) if you'd like to connect.
 
-In my work, I combine **computational modeling** with **advanced statistical methods** to uncover patterns in large multivariate datasets. This means I spend a lot of time coding in **R and Python** - though mostly standing on the shoulders of the heroes who maintain research packages on GitHub. Beyond my direct research, I have a broad interest in all things science and philosophy. In my Dutch blog [Hersenvoer](hersenvoer.qmd), I write for a general audience about my work and beyond, check it out!
+In my work, I combine **computational modeling** with **advanced statistical methods** to uncover patterns in large multivariate datasets. This means I spend a lot of time coding in **R and Python** - though mostly standing on the shoulders of the heroes who maintain research packages on GitHub. Beyond my direct research, I have a broad interest in all things science and philosophy. In my Dutch blog [Hersenvoer](hersenvoer.qmd), I write for a general audience about my work and beyond, check it out! If you want to know more about me personally, visit [About](about.qmd) for a (very) short educational and personal history.
 
-### A (very) short educational history
-
-Just as my interests are broad, so too was my formal education. I started at the bench, pipetting and centrifuging in search of new drugs during my Bachelor's in Pharmaceutical Sciences at Utrecht University. A course in Psychopharmacology changed everything: I fell in love with neuroscience and went on to pursue a Master's in Neuroscience & Cognition, also at Utrecht University. From there, I completed a cognitive neuroscience PhD at Leiden University, where I tried to uncover the neuromodulatory underpinnings of why our focus seems so unstable.
+<div class="page-photo">
+  <img src="images/Jeshua-072.jpg" alt="Jeshua Tromp">
+</div>
 
 </div>
