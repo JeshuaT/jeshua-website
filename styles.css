@@ -55,6 +55,11 @@ a:hover {
   font-weight: 700;
   color: #212121 !important;
 }
+.navbar-logo {
+  height: 20px !important;
+  min-height: unset !important;
+  max-height: 20px !important;
+}
 
 /* ─── BANNER — TRULY FULL-WIDTH ──────────────────────── */
 /* JS moves .site-banner to a direct child of <body> so no
